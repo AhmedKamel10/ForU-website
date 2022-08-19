@@ -10,7 +10,7 @@ from django.shortcuts import render
 from django.urls import is_valid_path
 import tweepy
 from . import config
-from . import recommendation
+
 from .models import mode, username
 # Create your views here.
 
